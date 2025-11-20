@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Oracle Administration, Big Data (Spark & Hadoop)**
 
-- I’m looking to collaborate on [E-commerce recommender system](https://github.com/khayatti1/Systeme_recommandation)
+- 🤝 I’m looking to collaborate on [E-commerce recommender system](https://github.com/khayatti1/Systeme_recommandation)
 
 - 👨‍💻 All of my projects are available at [https://github.com/khayatti1](https://github.com/khayatti1)
 
