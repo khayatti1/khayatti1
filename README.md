@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://zoldyck-elkhayatti.vercel.app/](https://zoldyck-elkhayatti.vercel.app/)
 
-- ⚡ Fun fact **I learn faster when I break things first 😄**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khayatti1&show_icons=true&locale=en&layout=compact" alt="khayatti1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khayatti1&show_icons=true&locale=en" alt="khayatti1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayatti1&" alt="khayatti1" /></p>
