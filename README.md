@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm EL KHAYATI Mohammed</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khayatti1&label=Profile%20views&color=0e75b6&style=flat" alt="khayatti1" /> </p>
+
 - 🔭 I’m currently working on [AI-powered recruitment platform](https://github.com/khayatti1/Smart_interview)
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Oracle Administration, Big Data (Spark & Hadoop)**
